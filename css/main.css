@@ -14,11 +14,21 @@ img {
 }
 
 h1, h2 {
-  color: #3f1622
+  color: #3f1622;
   font-family: 'PT Sans', sans-serif;
 }
 
 p {
   color: #222;
   font-family: 'PT Serif', serif;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
