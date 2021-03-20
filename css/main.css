@@ -15,16 +15,16 @@ img {
 
 h1, h2 {
   color: #3f1622;
-  font-family: 'PT-Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 p {
   color: #222;
-  font-family: 'PT-Serif', serif;
+  font-family: 'PT Serif', serif;
 }
 
 nav {
-  font-family: "PT-Sans", sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
@@ -41,4 +41,8 @@ nav a:hover {
 
 .intro {
   font-size: 1rem;
+}
+
+ol {
+  list-style-type: lower-greek;
 }
