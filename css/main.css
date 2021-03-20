@@ -24,9 +24,9 @@ p {
 }
 
 nav {
-  font-family: "PT-Serif", sans-serif;
+  font-family: "PT-Sans", sans-serif;
   font-size: 1.125rem;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 nav a {
