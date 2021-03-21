@@ -59,6 +59,7 @@ ol {
 figcaption {
   font-style: italic;
   text-align: center;
+  font-weight: lighter;
 }
 
 blockquote p {
