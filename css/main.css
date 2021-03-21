@@ -19,7 +19,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.625rem;
 }
 
 p {
@@ -30,7 +30,7 @@ p {
 nav {
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 nav a {
