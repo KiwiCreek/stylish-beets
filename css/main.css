@@ -51,6 +51,10 @@ ol {
   list-style-type: lower-greek;
 }
 
+blockquote p {
+  font-size: 1.5rem;
+}
+
 blockquote footer {
   font-size: .8rem;
 }
